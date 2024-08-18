@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm final yearite at Vellore Institute of Technology, Vellore, India<br>B.tech CSE with Information Security<br>
+I'm final yearite at Vellore Institute of Technology, Vellore, India<br>
+B.tech CSE with Information Security<br>
+Aspiring Data Scientist<br>
+Striving For Excellence!!<br>
 
 
 ## 🌐 Socials:
