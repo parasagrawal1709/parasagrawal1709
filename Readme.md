@@ -155,6 +155,9 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 <img src="https://img.shields.io/badge/DBMS-Database%20Management-4479A1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scalability-System%20Engineering-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Event--Driven%20Architecture-EDA-FF4500?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Integration-ML%20Systems-FF1493?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multiple%20LLM%20Integration-AI%20Orchestration-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Pipeline-2EA44F?style=for-the-badge"/>
 </p>
 
 ##
