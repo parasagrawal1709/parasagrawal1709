@@ -96,7 +96,7 @@
 
 ![](https://skills.syvixor.com/api/icons?i=blender,adobeaftereffects,adobepremierepro,adobeillustrator,figma&perline=18)
     
-<!--
+
 
 ##
 <h3><b><samp>Tools and Platform</samp></b></h3>
@@ -108,7 +108,7 @@
 <h4><b><samp>IDEs</samp></b></h4>
 
 ![](https://skills.syvixor.com/api/icons?i=clion,intellijidea,webstorm,pycharm,vscode,sublime,anaconda,vim&perline=18)
-
+<!--
 <hr> 
   
 <h3><b><samp>Check out my Repositories</samp></b></h3>
