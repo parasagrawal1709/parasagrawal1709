@@ -127,6 +127,10 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 
 ![](https://skills.syvixor.com/api/icons?i=java,python,bash&perline=18)
 
+<h4><b><samp>Backend Engineering & Frameworks</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=spring,selenium,postman,rabbitmq,kafka,redis,grafana,logstash,kibana&perline=18)
+
 
 
 <h4><b><samp>DevOps</samp></b></h4>
@@ -134,9 +138,7 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 ![](https://skills.syvixor.com/api/icons?i=git,docker,kubernetes,terraform,ansible,gherkin,jenkins,nginx,grafana,prometheus,azure,aws&perline=18)
 
 
-<h4><b><samp>Backend Engineering & Frameworks</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=spring,selenium,postman,rabbitmq,kafka,redis,grafana,logstash,kibana&perline=18)
 
 <h4><b><samp>Database</samp></b></h4>
 
