@@ -96,6 +96,8 @@
 
 ![](https://skills.syvixor.com/api/icons?i=blender,adobeaftereffects,adobepremierepro,adobeillustrator,figma&perline=18)
     
+<!--
+
 ##
 <h3><b><samp>Tools and Platform</samp></b></h3>
 
@@ -109,7 +111,7 @@
 
 <hr> 
   
-<!-- <h3><b><samp>Check out my Repositories</samp></b></h3>
+<h3><b><samp>Check out my Repositories</samp></b></h3>
 
 <span>
 <a href="https://github.com/amandewatnitrr/A-10-NEXA">
@@ -118,30 +120,24 @@
 <a href="https://github.com/amandewatnitrr/Aztecs-LogiTraffic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=Aztecs-LogiTraffic" />
 </a>
-  </span>
+</span>
   
-<hr> -->
+<hr>
   
-<!-- <!-- ### ✍️ Blog posts
-<!-- BLOG-POST-LIST:START -->
+### ✍️ Blog posts
+
 - [Making a Pulse Oximeter using Arduino](https://medium.com/@amandewatnitrr/making-a-pulse-oximeter-using-arduino-e0a7f21b2a5e?source=rss-e69b5e669025------2)
 - [Setting Up the Headless Raspberry Pi](https://medium.com/@amandewatnitrr/setting-up-the-headless-raspberry-pi-bb492866ee5f?source=rss-e69b5e669025------2)
 - [Getting Started with Content Writing and Blog Writing](https://medium.com/@amandewatnitrr/getting-started-with-content-writing-and-blog-writing-52cc6a7440b4?source=rss-e69b5e669025------2)
 - [What you need to know as a Hardware and IoT Engineer?? How to Begin...](https://medium.com/@amandewatnitrr/what-you-need-to-know-as-a-hardware-and-iot-engineer-how-to-begin-f85ef44b06a?source=rss-e69b5e669025------2)
 - [My First Hackathon...Summed Up](https://medium.com/@amandewatnitrr/my-first-hackathon-summed-up-48187d27e513?source=rss-e69b5e669025------2)
-<!-- BLOG-POST-LIST:END -->
 
-   -->
 <hr>
-  
-<br> -->
 
-
-
-<!-- ### 🔖 Holopins:
+### 🔖 Holopins:
   
 [![@amandewatnitrr's Holopin board](https://holopin.io/api/user/board?user=amandewatnitrr)](https://holopin.io/@amandewatnitrr)
 
-<br>  
-  
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg) -->
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+
+-->
