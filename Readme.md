@@ -86,6 +86,40 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 
 </div>
 
+<div align="center">
+
+### 🤝 Let's Connect
+
+<a href="https://x.com/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/parasagrawal1709/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/parasagrawal1709" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@yourusername" target="_blank">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://stackoverflow.com/users/yourid" target="_blank">
+<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+
+<a href="https://yourwebsite.com" target="_blank">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
 ##
 <h3><b><samp>Skills</samp></b></h3>
 
