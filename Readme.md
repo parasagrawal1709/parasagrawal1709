@@ -122,7 +122,7 @@
   
 <hr>
   
-### ✍️ Blog posts
+<!-- ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Making a Pulse Oximeter using Arduino](https://medium.com/@amandewatnitrr/making-a-pulse-oximeter-using-arduino-e0a7f21b2a5e?source=rss-e69b5e669025------2)
 - [Setting Up the Headless Raspberry Pi](https://medium.com/@amandewatnitrr/setting-up-the-headless-raspberry-pi-bb492866ee5f?source=rss-e69b5e669025------2)
@@ -134,14 +134,14 @@
   
 <hr>
   
-<br>
+<br> -->
 
 
 
-### 🔖 Holopins:
+<!-- ### 🔖 Holopins:
   
 [![@amandewatnitrr's Holopin board](https://holopin.io/api/user/board?user=amandewatnitrr)](https://holopin.io/@amandewatnitrr)
 
 <br>  
   
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg) -->
