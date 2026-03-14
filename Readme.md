@@ -35,19 +35,20 @@
 
 <div>
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/>
-  <br>
+<br>
 
-Software Engineer with nearly about 1 year of experience building and maintaining scalable backend systems, internal platforms, and automation pipelines in enterprise environments.
+Software Engineer with ~1 year of experience building scalable backend systems, internal platforms, and automation pipelines in enterprise environments.
 
-I work at the intersection of backend engineering, platform reliability, and applied AI, with hands-on experience in distributed systems, concurrency, workflow automation, and large-scale data processing. I’ve contributed to high-impact internal platforms, focusing on system correctness, observability, and operational reliability.
+I work at the intersection of **backend engineering, platform reliability, and applied AI**, with hands-on experience in **distributed systems, workflow automation, and large-scale data processing**. My focus is on building systems that are **reliable, observable, and production-ready**.
 
-Currently, I work on designing, developing, and operating Java-based microservices and backend platforms, with a strong focus on DevOps practices and production readiness. My experience includes building and deploying services using CI/CD pipelines, containerization, and automated testing, while ensuring reliability, scalability, and observability in real-world environments. I prioritize measurable efficiency improvements, system robustness, and operational excellence, rather than just implementation for its own sake.
+Currently, I design and develop **Java-based microservices and backend platforms**, applying **DevOps best practices**, CI/CD pipelines, containerization, and automated testing to ensure **scalability, reliability, and operational efficiency**.
 
-I work on production-grade backend systems integrated with LLMs, including agent-based workflows. I care deeply about correctness, failure handling, and operational safety, ensuring AI-powered features meet backend reliability standards.
+I also work on **production-grade backend systems integrated with LLMs**, including **agent-based workflows**, where I prioritize **correctness, failure handling, and operational safety** to ensure AI-powered systems meet backend reliability standards.
 
-I also have experience with test automation frameworks and CI/CD pipelines, helping teams improve release confidence and developer productivity through automation-first engineering.
+Additionally, I have experience developing **test automation frameworks and CI/CD pipelines**, helping teams improve **release confidence, system stability, and developer productivity through automation-first engineering**.
 
-I enjoy collaborating across teams to design, build, and deploy impactful software, and I’m driven by continuous learning, ownership, and solving complex engineering problems using modern tools and frameworks.
+I enjoy collaborating across teams to **design, build, and operate impactful software systems**, and I’m driven by **continuous learning, ownership, and solving complex engineering challenges using modern technologies**.
+
 </div>
 
 ##
