@@ -127,16 +127,12 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 
 ![](https://skills.syvixor.com/api/icons?i=java,python,bash&perline=18)
 
-<h4><b><samp>Frameworks</samp></b></h4>
+<h4><b><samp>Frameworks & Testing</samp></b></h4>
 
-<p align="left">
+![](https://skillicons.dev/icons?i=spring,selenium&perline=18)
+<img src="https://cdn.simpleicons.org/restassured" height="48"/>
+<img src="https://cdn.simpleicons.org/testng" height="48"/>
 
-<img src="https://skills.syvixor.com/api/icons?i=spring,selenium&perline=18"/>
-
-<img src="https://img.shields.io/badge/Rest%20Assured-16A085?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge"/>
-
-</p>
 
 <h4><b><samp>DevOps</samp></b></h4>
 
