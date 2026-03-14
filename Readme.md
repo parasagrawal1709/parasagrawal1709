@@ -30,8 +30,8 @@
   <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
 </a> -->
 
-## <p align="center"><h4 align="center"><samp> Building scalable infrastructure, automating everything, and crafting clean code that stands the test of production.
- </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> Software Engineer | Building Realiable, Scalable, And Innovative Solutions
+ <br> Distributed Systems, Microservices & AI Integration</samp></h4></p>
 
 <div>
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/>
@@ -73,14 +73,14 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 
 <h3><b><samp>Leadership & Management</samp></b></h3>
 
-- 🦊 <b>Senior Core Committee Member</b> — Mozilla Firefox Club, VIT<br>
+- 🦊 <b>Senior Core Committee Member</b> — Mozilla Firefox Club VIT<br>
 - 👨🏻‍💻 <b>Senior Core Committee Member</b> — CodeChef VIT<br>
 - 🏫 <b>Senior Core Committee Member</b> — ISTE VIT<br>
 - 🌍 <b>Core Committee Member</b> — Leo Club VIT<br>
 
 
 
-<h4><b><samp>Event Leadership</samp></b></h4>
+<h3><b><samp>Event Leadership</samp></b></h4>
 
 - 🚀 <b>Core Organiser Team Member</b> — Gravitas VIT (International Technical Fest)<br>
 - 🎭 <b>Organiser Core Committee Member</b> — Riviera VIT (International Cultural Festival)<br>
