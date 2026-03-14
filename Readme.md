@@ -130,33 +130,20 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 <h4><b><samp>Frameworks & Testing</samp></b></h4>
 
 ![](https://skillicons.dev/icons?i=spring,selenium&perline=18)
-<img src="https://cdn.simpleicons.org/restassured" height="48"/>
-<img src="https://cdn.simpleicons.org/testng" height="48"/>
 
 
 <h4><b><samp>DevOps</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?i=git,docker,kubernetes,terraform,gherkin,jenkins,nginx,grafana,prometheus,azure,aws&perline=18)
+![](https://skills.syvixor.com/api/icons?i=git,docker,kubernetes,terraform,ansible,gherkin,jenkins,nginx,grafana,prometheus,azure,aws&perline=18)
 
-<h4><b><samp>Frontend</samp></b></h4>
-
-![](https://skills.syvixor.com/api/icons?i=html,css,tailwind,javascript,bootstrap,react,md&perline=18)
 
 <h4><b><samp>Backend</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=django,php,postman,rabbitmq&perline=18)
+![](https://skillicons.dev/icons?i=springboot,postman,rabbitmq,kafka,redis&perline=18)
 
 <h4><b><samp>Database</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?perline=18&i=postgresql,mysql,sqlite,firebase)
-
-<h4><b><samp>Electronics and IoT</samp></b></h4>
-
-![](https://skills.syvixor.com/api/icons?i=arduino,raspberrypi&perline=18)
-
-<h4><b><samp>Design and Video Editing</samp></b></h4>
-
-![](https://skills.syvixor.com/api/icons?i=blender,adobeaftereffects,adobepremierepro,adobeillustrator,figma&perline=18)
+![](https://skills.syvixor.com/api/icons?perline=18&i=postgresql,mysql,mongodb,elasticsearch)
     
 
 
@@ -165,11 +152,11 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 
 <h4><b><samp>Operating Systems and Platforms</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?i=windows,linux,apple,ubuntu,debian,kalilinux&perline=18)
+![](https://skills.syvixor.com/api/icons?i=windows,linux,apple&perline=18)
 
 <h4><b><samp>IDEs</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?i=clion,intellijidea,webstorm,pycharm,vscode,sublime,anaconda,vim&perline=18)
+![](https://skills.syvixor.com/api/icons?i=intellijidea,pycharm,vscode&perline=18)
 <!--
 <hr> 
   
