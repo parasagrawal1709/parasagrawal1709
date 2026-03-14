@@ -109,7 +109,7 @@
 
 <hr> 
   
-<h3><b><samp>Check out my Repositories</samp></b></h3>
+<!-- <h3><b><samp>Check out my Repositories</samp></b></h3>
 
 <span>
 <a href="https://github.com/amandewatnitrr/A-10-NEXA">
@@ -120,7 +120,7 @@
 </a>
   </span>
   
-<hr>
+<hr> -->
   
 <!-- <!-- ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
