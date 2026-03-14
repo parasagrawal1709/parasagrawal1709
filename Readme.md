@@ -102,15 +102,15 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:parasagrawal1709@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://medium.com/@yourusername" target="_blank">
+<a href="https://medium.com/@parasagrawal_" target="_blank">
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-<a href="https://stackoverflow.com/users/yourid" target="_blank">
+<a href="https://stackoverflow.com/users/21889706/paras-agrawal target="_blank">
 <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
 </a>
 
@@ -125,7 +125,7 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 
 <h4><b><samp>Languages</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?i=cpp,c,python,js,java,bash&perline=18)
+![](https://skills.syvixor.com/api/icons?i=java,python,bash&perline=18)
 
 <h4><b><samp>DevOps</samp></b></h4>
 
