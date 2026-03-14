@@ -139,13 +139,21 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 
 <h4><b><samp>Backend</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=springboot,postman,rabbitmq,kafka,redis&perline=18)
+![](https://skillicons.dev/icons?i=spring,postman,rabbitmq,kafka,redis&perline=18)
 
 <h4><b><samp>Database</samp></b></h4>
 
 ![](https://skills.syvixor.com/api/icons?perline=18&i=postgresql,mysql,mongodb,elasticsearch)
     
+<h4><b><samp>Core Architecture & Concepts</samp></b></h4>
 
+![](https://skillicons.dev/icons?i=kafka,redis,docker,kubernetes,linux,nginx,aws,terraform&perline=18)
+
+<p>
+<samp>
+Microservices • System Design • Distributed Systems • Operating Systems • Computer Networks • Database Management Systems • Scalability • Event Driven Architecture
+</samp>
+</p>
 
 ##
 <h3><b><samp>Tools and Platform</samp></b></h3>
