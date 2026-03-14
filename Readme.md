@@ -54,16 +54,23 @@ I enjoy collaborating across teams to design, build, and deploy impactful softwa
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <b>Software Developer @ GE Healthcare</b><br>
-- 🔬 <b>Ex-Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)</b><br>
-- 🕵🏻 <b>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May 2020 - Aug 2020)</b><br>
-- 👨🏾‍💻 <b>Embedded IoT Intern at SVA Robotics(Sep 2020 - Oct 2020)</b><br>
-- ✍🏻 Ex-Core Member of IEEE Bombay Section Technical and Professional Committee (August 2020 - May 2022)<br>
-- 👨🏻‍💻 Ex-Head Coordinator at Turing Club of Programmers, NIT Raipur.<br>
-- ☁ 30 Days of Google Cloud(Cloud Engnieering Track)<br>
-- 👨🏻‍🏫 Mentor at SparkDev UPE FIU (2021)<br>
-- 👨🏻‍🏫 Mentor and Judge at HackOdisha'21<br>
-- 👷🏻 Lead Organiser and Speaker at Octafest'21 and Trek The Hill'22<br>
+
+- 👨🏻‍💻 <b>Engineering @ EY (Ernst & Young)</b> (Nov 2025 - Present)<br>
+- 🧪 <b>Ex-SDE in Test @ Infrrd</b> (Apr 2025 - Nov 2025)<br>
+- 📊 <b>Ex Data Analyst Intern @ Druck Media</b><br>
+- 💻 <b>Ex Software Development Intern @ Iquicesoft</b><br>
+
+- 🎓 <b>B.Tech in Computer Science & Engineering (CSE'25) — Vellore Institute of Technology, Vellore</b><br>
+
+- 🦊 <b>Senior Core Committee Member — Mozilla Firefox Club, VIT</b><br>
+- 👨🏻‍💻 <b>Senior Core Committee Member — CodeChef VIT</b><br>
+- 🏫 <b>Senior Core Committee Member — ISTE VIT</b><br>
+- 🌍 <b>Core Committee Member — Leo Club VIT</b><br>
+
+- 🚀 <b>Core Organiser Team Member — Gravitas VIT (International Technical Fest)</b><br>
+- 🎭 <b>Organiser Core Committee Member — Riviera VIT (International Cultural Festival)</b><br>
+- 🏆 <b>Leading Organising Team — Horizon Technical Hackathon</b><br>
+
 </div>
 
 ##
