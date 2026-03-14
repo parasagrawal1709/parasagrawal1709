@@ -167,6 +167,30 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 <h4><b><samp>IDEs</samp></b></h4>
 
 ![](https://skills.syvixor.com/api/icons?i=intellijidea,pycharm,vscode&perline=18)
+
+## 📊 Github Stats (Expand to View)
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
+	</p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	</p>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+	<a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
 <!--
 <hr> 
   
