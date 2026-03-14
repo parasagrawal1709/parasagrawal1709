@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
 </a> -->
 
-## <p align="center"><h4 align="center"><samp> Software Engineer | Building Realiable, Scalable, And Innovative Solutions</samp></h4></p>
+## <p align="center"><h4 align="center"><samp> Software Engineer | Building Reliable, Scalable, And Innovative Solutions</samp></h4></p>
 <div>
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/>
 <br>
@@ -127,9 +127,6 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 
 ![](https://skills.syvixor.com/api/icons?i=java,python,bash&perline=18)
 
-<h4><b><samp>Frameworks & Testing</samp></b></h4>
-
-![](https://skillicons.dev/icons?i=spring,selenium&perline=18)
 
 
 <h4><b><samp>DevOps</samp></b></h4>
@@ -137,9 +134,9 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 ![](https://skills.syvixor.com/api/icons?i=git,docker,kubernetes,terraform,ansible,gherkin,jenkins,nginx,grafana,prometheus,azure,aws&perline=18)
 
 
-<h4><b><samp>Backend</samp></b></h4>
+<h4><b><samp>Backend Engineering & Frameworks</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=spring,postman,rabbitmq,kafka,redis,grafana,logstash,kibana&perline=18)
+![](https://skillicons.dev/icons?i=spring,selenium,postman,rabbitmq,kafka,redis,grafana,logstash,kibana&perline=18)
 
 <h4><b><samp>Database</samp></b></h4>
 
