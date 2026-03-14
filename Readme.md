@@ -1,7 +1,5 @@
 # Hey Everyone! I'm [Paras Agrawal👀](https://github.com/parasagrawal1709)
-<hr height:0.5px; margin:auto; border:none; background-color:#ccc;">
 ![](/header_.png)
-<hr height:0.5px; margin:auto; border:none; background-color:#ccc;">
 <!-- <br><br>
 <a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -33,7 +31,6 @@
 </a> -->
 
 ## <p align="center"><h4 align="center"><samp> Software Engineer | Building Realiable, Scalable, And Innovative Solutions</samp></h4></p>
-<hr height:0.5px; margin:auto; border:none; background-color:#ccc;">
 <div>
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/>
 <br>
