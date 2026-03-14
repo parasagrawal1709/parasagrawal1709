@@ -54,23 +54,37 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 ##
 
 <div>
-<h3><b><samp>Experiences:</samp></b></h3>
 
-- 👨🏻‍💻 <b>Engineering @ EY (Ernst & Young)</b> (Nov 2025 - Present)<br>
-- 🧪 <b>Ex-SDE in Test @ Infrrd</b> (Apr 2025 - Nov 2025)<br>
+<h3><b><samp>Experience</samp></b></h3>
+
+- 👨🏻‍💻 <b>Engineering @ EY (Ernst & Young)</b> — <i>Nov 2025 - Present</i><br>
+- 🧪 <b>Ex-SDE in Test @ Infrrd</b> — <i>Apr 2025 - Nov 2025</i><br>
 - 📊 <b>Ex Data Analyst Intern @ Druck Media</b><br>
 - 💻 <b>Ex Software Development Intern @ iQuicesoft</b><br>
 
-- 🎓 <b>B.Tech in Computer Science & Engineering (CSE'25) — Vellore Institute of Technology, Vellore</b><br>
+<br>
 
-- 🦊 <b>Senior Core Committee Member — Mozilla Firefox Club, VIT</b><br>
-- 👨🏻‍💻 <b>Senior Core Committee Member — CodeChef VIT</b><br>
-- 🏫 <b>Senior Core Committee Member — ISTE VIT</b><br>
-- 🌍 <b>Core Committee Member — Leo Club VIT</b><br>
+<h3><b><samp>Education</samp></b></h3>
 
-- 🚀 <b>Core Organiser Team Member — Gravitas VIT (Technical Fest, VIT)</b><br>
-- 🎭 <b>Organiser Core Committee Member — Riviera VIT (Cultural Festival, VIT)</b><br>
-- 🏆 <b>Leading Organising Team — Horizon Technical Hackathon</b><br>
+- 🎓 <b>B.Tech in Computer Science & Engineering (CSE'25)</b><br>
+  Vellore Institute of Technology, Vellore
+
+<br>
+
+<h3><b><samp>Leadership & Management</samp></b></h3>
+
+- 🦊 <b>Senior Core Committee Member</b> — Mozilla Firefox Club, VIT<br>
+- 👨🏻‍💻 <b>Senior Core Committee Member</b> — CodeChef VIT<br>
+- 🏫 <b>Senior Core Committee Member</b> — ISTE VIT<br>
+- 🌍 <b>Core Committee Member</b> — Leo Club VIT<br>
+
+<br>
+
+<h4><b><samp>Event Leadership</samp></b></h4>
+
+- 🚀 <b>Core Organiser Team Member</b> — Gravitas VIT (International Technical Fest)<br>
+- 🎭 <b>Organiser Core Committee Member</b> — Riviera VIT (International Cultural Festival)<br>
+- 🏆 <b>Leading Organising Team</b> — Horizon Technical Hackathon<br>
 
 </div>
 
