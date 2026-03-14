@@ -35,7 +35,7 @@
 ## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+<img align="right" src="hhttps://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/>
   <br>
 
 - 👷 <samp><b>Software Developer @ GE Healthcare</b>
