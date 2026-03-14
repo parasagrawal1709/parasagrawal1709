@@ -35,30 +35,19 @@
 
 <div>
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/>
-<br>
+  <br>
 
-- 👨‍💻 <samp><b>Engineering @ EY (Ernst & Young)</b> *(Nov 2025 – Present)*</samp>
-- 🧪 <samp><b>Ex-SDE in Test @ Infrrd</b> *(Apr 2025 – Nov 2025)*</samp>
-- 📊 <samp><b>Ex Data Analyst Intern @ Druck Media</b></samp>
-- 💻 <samp><b>Ex Software Development Intern @ Iquicesoft</b></samp>
+Software Engineer with nearly about 1 year of experience building and maintaining scalable backend systems, internal platforms, and automation pipelines in enterprise environments.
 
-- 👨‍🎓 <samp><b>B.Tech in Computer Science & Engineering (CSE'25)</b>  
-  Vellore Institute of Technology, Vellore</samp>
+I work at the intersection of backend engineering, platform reliability, and applied AI, with hands-on experience in distributed systems, concurrency, workflow automation, and large-scale data processing. I’ve contributed to high-impact internal platforms, focusing on system correctness, observability, and operational reliability.
 
-- 🌟 <samp><b>Senior Core Committee Member</b> — Mozilla Firefox Club, VIT</samp>
-- 👨‍💻 <samp><b>Senior Core Committee Member</b> — CodeChef VIT</samp>
-- 🏫 <samp><b>Senior Core Committee Member</b> — ISTE VIT</samp>
-- 🌍 <samp><b>Core Committee Member</b> — Leo Club VIT</samp>
+Currently, I work on designing, developing, and operating Java-based microservices and backend platforms, with a strong focus on DevOps practices and production readiness. My experience includes building and deploying services using CI/CD pipelines, containerization, and automated testing, while ensuring reliability, scalability, and observability in real-world environments. I prioritize measurable efficiency improvements, system robustness, and operational excellence, rather than just implementation for its own sake.
 
-- 🚀 <samp><b>Core Organiser Team Member</b> — Gravitas VIT (International Technical Fest)</samp>
-- 🎭 <samp><b>Organiser Core Committee Member</b> — Riviera VIT (International Cultural Festival)</samp>
-- 🏆 <samp><b>Leading Organising Team</b> — Horizon Technical Hackathon</samp>
+I work on production-grade backend systems integrated with LLMs, including agent-based workflows. I care deeply about correctness, failure handling, and operational safety, ensuring AI-powered features meet backend reliability standards.
 
-- 💼 <samp>I’m interested in **Software Engineering, Data Engineering, and Scalable Systems**.</samp>
-- 💬 <samp>Ask me about **Software Development, Data Analysis, System Design, and Open Source**.</samp>
-- 🤝 <samp>I enjoy collaborating on **tech communities, hackathons, and developer events**.</samp>
-- ⚡ <samp>Fun fact: I love organizing tech events and contributing to developer communities.</samp>
+I also have experience with test automation frameworks and CI/CD pipelines, helping teams improve release confidence and developer productivity through automation-first engineering.
 
+I enjoy collaborating across teams to design, build, and deploy impactful software, and I’m driven by continuous learning, ownership, and solving complex engineering problems using modern tools and frameworks.
 </div>
 
 ##
