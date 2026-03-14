@@ -35,17 +35,30 @@
 
 <div>
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/>
-  <br>
+<br>
 
-- 👷 <samp><b>Software Developer @ GE Healthcare</b>
-- 👨‍🎓 <samp><b>B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur - 8.51 CPI</b>
-- 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
-- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) || Codeutsava 5.0 Winner (Feb 2022)
-- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
-- 💬 <samp>Ask me about Full Stack Dev/DevOps/IoT & Electronics.
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
-- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
-- ♟ <samp>I play a lot of chess, and Valorant. I am 1400-1500 rated on chess.com. My peak Valorant rank is Plat 3.
+- 👨‍💻 <samp><b>Engineering @ EY (Ernst & Young)</b> *(Nov 2025 – Present)*</samp>
+- 🧪 <samp><b>Ex-SDE in Test @ Infrrd</b> *(Apr 2025 – Nov 2025)*</samp>
+- 📊 <samp><b>Ex Data Analyst Intern @ Druck Media</b></samp>
+- 💻 <samp><b>Ex Software Development Intern @ Iquicesoft</b></samp>
+
+- 👨‍🎓 <samp><b>B.Tech in Computer Science & Engineering (CSE'25)</b>  
+  Vellore Institute of Technology, Vellore</samp>
+
+- 🌟 <samp><b>Senior Core Committee Member</b> — Mozilla Firefox Club, VIT</samp>
+- 👨‍💻 <samp><b>Senior Core Committee Member</b> — CodeChef VIT</samp>
+- 🏫 <samp><b>Senior Core Committee Member</b> — ISTE VIT</samp>
+- 🌍 <samp><b>Core Committee Member</b> — Leo Club VIT</samp>
+
+- 🚀 <samp><b>Core Organiser Team Member</b> — Gravitas VIT (International Technical Fest)</samp>
+- 🎭 <samp><b>Organiser Core Committee Member</b> — Riviera VIT (International Cultural Festival)</samp>
+- 🏆 <samp><b>Leading Organising Team</b> — Horizon Technical Hackathon</samp>
+
+- 💼 <samp>I’m interested in **Software Engineering, Data Engineering, and Scalable Systems**.</samp>
+- 💬 <samp>Ask me about **Software Development, Data Analysis, System Design, and Open Source**.</samp>
+- 🤝 <samp>I enjoy collaborating on **tech communities, hackathons, and developer events**.</samp>
+- ⚡ <samp>Fun fact: I love organizing tech events and contributing to developer communities.</samp>
+
 </div>
 
 ##
