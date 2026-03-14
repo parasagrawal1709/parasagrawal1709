@@ -127,6 +127,10 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 
 ![](https://skills.syvixor.com/api/icons?i=java,python,bash&perline=18)
 
+<h4><b><samp>Frameworks</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=spring,selenium,restassured,testng&perline=18)
+
 <h4><b><samp>DevOps</samp></b></h4>
 
 ![](https://skills.syvixor.com/api/icons?i=git,docker,kubernetes,terraform,gherkin,jenkins,nginx,grafana,prometheus,azure,aws&perline=18)
