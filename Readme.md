@@ -1,37 +1,10 @@
 # Hey Everyone! I'm [Paras Agrawal👀](https://github.com/parasagrawal1709)
 ![](/header_.png)
-<!-- <br><br>
-<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/amandewatnitrr">
-  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/straw_hat_akd/">
-  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/channel/UCJ3giAOL-ycnqLDCA96AJag">
-  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
-<a href="https://www.coursera.org/learner/akd-1301">
-  <img align="left" alt="kad's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
-</a>
-<a href="https://www.qwiklabs.com/public_profiles/d9014880-0e88-42ad-abee-5e6e5e380de5">
-  <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
-</a>
-<br><br>
-<a href="https://www.hackerrank.com/amandewatnitrr?hr_r=1">
-  <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
-</a>
-<a href="https://community.wolfram.com/web/amandewatnitrr?p_p_id=user_WAR_userportlet&tabs1=Discussions"  target="_blank">
-  <img src="https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=Wolfram&logoColor=white">
-</a>
-<a href="https://leetcode.com/u/amandewatnitrr/"  target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
-</a> -->
 
-## <p align="center"><h4 align="center"><samp> Software Engineer | Building Realiable, Scalable, And Innovative Solutions</samp></h4></p>
-<hr height:0.5px; margin:auto; border:none; background-color:#ccc;">
+## <p align="center"><h4 align="center"><samp> Software Engineer | Building Reliable, Scalable, And Innovative Solutions</samp></h4></p>
+
+<hr style="width:60%; height:1px; margin:auto; border:none; background-color:#ccc;">
+
 <div>
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/>
 <br>
