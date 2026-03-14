@@ -31,7 +31,7 @@
 </a> -->
 
 ## <p align="center"><h4 align="center"><samp> Software Engineer | Building Realiable, Scalable, And Innovative Solutions</samp></h4></p>
-<hr width="50%" align="center">
+<hr height:1px; margin:auto; border:none; background-color:#ccc;">
 <div>
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/>
 <br>
