@@ -30,14 +30,12 @@
   <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
 </a> -->
 
-
-
 ## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
 
 <div>
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/>
   <br>
-
+<h3><b><samp>Experiences:</samp></b></h3>
 - 👷 <samp><b>Software Developer @ GE Healthcare</b>
 - 👨‍🎓 <samp><b>B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur - 8.51 CPI</b>
 - 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
