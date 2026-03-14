@@ -59,7 +59,7 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 - 👨🏻‍💻 <b>Engineering @ EY (Ernst & Young)</b> (Nov 2025 - Present)<br>
 - 🧪 <b>Ex-SDE in Test @ Infrrd</b> (Apr 2025 - Nov 2025)<br>
 - 📊 <b>Ex Data Analyst Intern @ Druck Media</b><br>
-- 💻 <b>Ex Software Development Intern @ Iquicesoft</b><br>
+- 💻 <b>Ex Software Development Intern @ iQuicesoft</b><br>
 
 - 🎓 <b>B.Tech in Computer Science & Engineering (CSE'25) — Vellore Institute of Technology, Vellore</b><br>
 
@@ -68,8 +68,8 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 - 🏫 <b>Senior Core Committee Member — ISTE VIT</b><br>
 - 🌍 <b>Core Committee Member — Leo Club VIT</b><br>
 
-- 🚀 <b>Core Organiser Team Member — Gravitas VIT (International Technical Fest)</b><br>
-- 🎭 <b>Organiser Core Committee Member — Riviera VIT (International Cultural Festival)</b><br>
+- 🚀 <b>Core Organiser Team Member — Gravitas VIT (Technical Fest, VIT)</b><br>
+- 🎭 <b>Organiser Core Committee Member — Riviera VIT (Cultural Festival, VIT)</b><br>
 - 🏆 <b>Leading Organising Team — Horizon Technical Hackathon</b><br>
 
 </div>
