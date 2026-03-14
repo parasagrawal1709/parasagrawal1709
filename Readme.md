@@ -110,7 +110,7 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-<a href="https://stackoverflow.com/users/21889706/paras-agrawal target="_blank">
+<a href="https://stackoverflow.com/users/21889706/paras-agrawal" target="_blank">
 <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
 </a>
 
