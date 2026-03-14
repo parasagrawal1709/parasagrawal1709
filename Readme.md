@@ -148,14 +148,14 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 <h4><b><samp>Core Architecture & Concepts</samp></b></h4>
 
 <p>
-<img src="https://img.shields.io/badge/Microservices-Architecture-0A66C2?style=for-the-badge&logo=microgenetics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-Architecture-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/System%20Design-Scalable%20Architecture-6DB33F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Distributed%20Systems-Engineering-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-Concepts-333333?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computer%20Networks-TCP%2FIP-1DA1F2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-Data%20Management-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBMS-Database%20Management-4479A1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scalability-System%20Engineering-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Event%20Driven%20Architecture-Messaging-FF4500?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Event--Driven%20Architecture-EDA-FF4500?style=for-the-badge"/>
 </p>
 
 ##
