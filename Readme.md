@@ -139,7 +139,7 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 
 <h4><b><samp>Backend</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=spring,postman,rabbitmq,kafka,redis,grafana&perline=18)
+![](https://skillicons.dev/icons?i=spring,postman,rabbitmq,kafka,redis,grafana,logstash,kibana&perline=18)
 
 <h4><b><samp>Database</samp></b></h4>
 
