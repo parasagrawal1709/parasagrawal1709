@@ -122,7 +122,7 @@
   
 <hr>
   
-<!-- ### ✍️ Blog posts
+<!-- <!-- ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Making a Pulse Oximeter using Arduino](https://medium.com/@amandewatnitrr/making-a-pulse-oximeter-using-arduino-e0a7f21b2a5e?source=rss-e69b5e669025------2)
 - [Setting Up the Headless Raspberry Pi](https://medium.com/@amandewatnitrr/setting-up-the-headless-raspberry-pi-bb492866ee5f?source=rss-e69b5e669025------2)
@@ -131,7 +131,7 @@
 - [My First Hackathon...Summed Up](https://medium.com/@amandewatnitrr/my-first-hackathon-summed-up-48187d27e513?source=rss-e69b5e669025------2)
 <!-- BLOG-POST-LIST:END -->
 
-  
+   -->
 <hr>
   
 <br> -->
