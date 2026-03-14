@@ -1,0 +1,12 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^git add Readme\\.md && git commit -m \"Update README\" && git push$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^git add \\. && git commit -m \"Commit updates\" && git push$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
