@@ -1,3 +1,4 @@
+<div style="background-color:white; padding:30px; border-radius:12px;">
 # Hey Everyone! I'm [Paras Agrawal👀](https://github.com/parasagrawal1709)
 ![](/header_.png)
 <!-- <br><br>
@@ -150,3 +151,4 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
 
 -->
+</div>
