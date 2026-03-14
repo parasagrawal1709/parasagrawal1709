@@ -62,14 +62,14 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 - 📊 <b>Ex Data Analyst Intern @ Druck Media</b><br>
 - 💻 <b>Ex Software Development Intern @ iQuicesoft</b><br>
 
-<br>
+
 
 <h3><b><samp>Education</samp></b></h3>
 
 - 🎓 <b>B.Tech in Computer Science & Engineering (CSE'25)</b><br>
   Vellore Institute of Technology, Vellore
 
-<br>
+
 
 <h3><b><samp>Leadership & Management</samp></b></h3>
 
@@ -78,7 +78,7 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 - 🏫 <b>Senior Core Committee Member</b> — ISTE VIT<br>
 - 🌍 <b>Core Committee Member</b> — Leo Club VIT<br>
 
-<br>
+
 
 <h4><b><samp>Event Leadership</samp></b></h4>
 
