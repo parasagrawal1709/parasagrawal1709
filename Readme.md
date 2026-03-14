@@ -217,4 +217,4 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 </a>
 
 </div>
-<img align="centre" src="/header_-1"/>
+<img align="centre" src="/header_-1.png"/>
