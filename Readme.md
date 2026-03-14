@@ -217,3 +217,4 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 </a>
 
 </div>
+![](/header_-1.png)
