@@ -1,4 +1,5 @@
 # Hey Everyone! I'm [Paras Agrawal👀](https://github.com/parasagrawal1709)
+![](/header_.png)
 <br><br>
 <a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -29,7 +30,7 @@
   <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
 </a>
 
-![](/header_.png)
+
 
 ## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
 
