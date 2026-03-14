@@ -30,8 +30,7 @@
   <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
 </a> -->
 
-## <p align="center"><h4 align="center"><samp> Software Engineer | Building Realiable, Scalable, And Innovative Solutions
- <br> Distributed Systems, Microservices & AI Integration</samp></h4></p>
+## <p align="center"><h4 align="center"><samp> Software Engineer | Building Realiable, Scalable, And Innovative Solutions</samp></h4></p>
 
 <div>
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/>
