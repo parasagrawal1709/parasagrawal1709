@@ -206,17 +206,6 @@ I enjoy collaborating across teams to **design, build, and operate impactful sof
 
 -->
 
-### 💻 Coding Profiles
-
-<a href="https://leetcode.com/u/parasagrawal_/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/parasagrawal1709" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-</div>
 <div>
 <img align="centre" src="/header_-1.png"/>
 </div>
